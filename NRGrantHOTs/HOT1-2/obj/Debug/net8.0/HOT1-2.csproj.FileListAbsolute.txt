@@ -1,0 +1,14 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\HOT1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\HOT1-2.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\HOT1-2.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\HOT1-2.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\bin\Debug\net8.0\HOT1-2.exe
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\bin\Debug\net8.0\HOT1-2.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\bin\Debug\net8.0\HOT1-2.runtimeconfig.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\bin\Debug\net8.0\HOT1-2.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\bin\Debug\net8.0\HOT1-2.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\HOT1-2.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\refint\HOT1-2.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\HOT1-2.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\HOT1-2.genruntimeconfig.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\HOT1-2\obj\Debug\net8.0\ref\HOT1-2.dll
