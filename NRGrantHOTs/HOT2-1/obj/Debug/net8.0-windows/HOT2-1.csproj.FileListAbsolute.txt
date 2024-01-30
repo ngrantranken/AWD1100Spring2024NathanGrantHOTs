@@ -1,0 +1,17 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\bin\Debug\net8.0-windows\HOT2-1.exe
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\bin\Debug\net8.0-windows\HOT2-1.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\bin\Debug\net8.0-windows\HOT2-1.runtimeconfig.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\bin\Debug\net8.0-windows\HOT2-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\bin\Debug\net8.0-windows\HOT2-1.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.csproj.GenerateResource.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.sourcelink.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\refint\HOT2-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2-1.genruntimeconfig.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\ref\HOT2-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT2-1\obj\Debug\net8.0-windows\HOT2_1.frmDistanceConverter.resources

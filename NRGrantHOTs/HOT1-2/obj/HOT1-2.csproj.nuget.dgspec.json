@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\HOT1-2\\HOT1-2.csproj": {}
+    "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\NRGrantHOTs\\HOT1-2\\HOT1-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\HOT1-2\\HOT1-2.csproj": {
+    "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\NRGrantHOTs\\HOT1-2\\HOT1-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\HOT1-2\\HOT1-2.csproj",
+        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\NRGrantHOTs\\HOT1-2\\HOT1-2.csproj",
         "projectName": "HOT1-2",
-        "projectPath": "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\HOT1-2\\HOT1-2.csproj",
+        "projectPath": "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\NRGrantHOTs\\HOT1-2\\HOT1-2.csproj",
         "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\HOT1-2\\obj\\",
+        "outputPath": "C:\\Users\\Apple\\Desktop\\Ranken Work\\Semester 2\\AWD1100\\NRGrantHOTs\\HOTs\\NRGrantHOTs\\HOT1-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config",
