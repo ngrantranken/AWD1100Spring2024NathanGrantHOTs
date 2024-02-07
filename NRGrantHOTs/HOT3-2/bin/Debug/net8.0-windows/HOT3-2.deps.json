@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HOT3-2/1.0.0": {
+        "runtime": {
+          "HOT3-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HOT3-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

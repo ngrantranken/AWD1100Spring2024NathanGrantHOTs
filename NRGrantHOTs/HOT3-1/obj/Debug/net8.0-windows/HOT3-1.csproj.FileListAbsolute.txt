@@ -1,0 +1,17 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\bin\Debug\net8.0-windows\HOT3-1.exe
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\bin\Debug\net8.0-windows\HOT3-1.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\bin\Debug\net8.0-windows\HOT3-1.runtimeconfig.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\bin\Debug\net8.0-windows\HOT3-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\bin\Debug\net8.0-windows\HOT3-1.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3_1.frmCustomDesk.resources
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.csproj.GenerateResource.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.sourcelink.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\refint\HOT3-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\HOT3-1.genruntimeconfig.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT3-1\obj\Debug\net8.0-windows\ref\HOT3-1.dll
