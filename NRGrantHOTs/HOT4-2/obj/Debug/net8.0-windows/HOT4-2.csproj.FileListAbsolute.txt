@@ -1,0 +1,16 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4_2.frmNameList.resources
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.csproj.GenerateResource.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\bin\Debug\net8.0-windows\HOT4-2.exe
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\bin\Debug\net8.0-windows\HOT4-2.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\bin\Debug\net8.0-windows\HOT4-2.runtimeconfig.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\bin\Debug\net8.0-windows\HOT4-2.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\bin\Debug\net8.0-windows\HOT4-2.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\refint\HOT4-2.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\HOT4-2.genruntimeconfig.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOT4\HOT4-2\obj\Debug\net8.0-windows\ref\HOT4-2.dll
