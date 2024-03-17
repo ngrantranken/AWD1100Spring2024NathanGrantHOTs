@@ -1,0 +1,17 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\bin\Debug\net8.0-windows\HOT6-1.exe
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\bin\Debug\net8.0-windows\HOT6-1.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\bin\Debug\net8.0-windows\HOT6-1.runtimeconfig.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\bin\Debug\net8.0-windows\HOT6-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\bin\Debug\net8.0-windows\HOT6-1.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6_1.frmPasswordCracker.resources
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.csproj.GenerateResource.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.sourcelink.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\refint\HOT6-1.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\HOT6-1.genruntimeconfig.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\HOT6-1\obj\Debug\net8.0-windows\ref\HOT6-1.dll
