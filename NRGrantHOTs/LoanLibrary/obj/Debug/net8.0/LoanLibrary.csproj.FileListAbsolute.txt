@@ -1,0 +1,12 @@
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\bin\Debug\net8.0\LoanLibrary.deps.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\bin\Debug\net8.0\LoanLibrary.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\bin\Debug\net8.0\LoanLibrary.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\LoanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\LoanLibrary.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\LoanLibrary.AssemblyInfo.cs
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\LoanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\LoanLibrary.sourcelink.json
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\LoanLibrary.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\refint\LoanLibrary.dll
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\LoanLibrary.pdb
+C:\Users\Apple\Desktop\Ranken Work\Semester 2\AWD1100\NRGrantHOTs\HOTs\NRGrantHOTs\LoanLibrary\obj\Debug\net8.0\ref\LoanLibrary.dll
